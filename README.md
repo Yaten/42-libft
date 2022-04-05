@@ -18,10 +18,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Yaten/42-libft">
-    <img src="https://github.com/Yaten/42/blob/main/img/libft.png" alt="Libft 115/100">
-  </a>
-    <br>
   115/100
 </p>
 
